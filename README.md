@@ -65,7 +65,7 @@ The hosted server is the source of truth for tool names and schemas.
 
 - SlideForge MCP server: https://www.slideforge.io/mcp
 - Server URL: https://mcp.slideforge.io/mcp
-- Support: support@slideforge.io
+- Support: contact@slideforge.io
 
 ## License
 

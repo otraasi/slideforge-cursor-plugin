@@ -5,7 +5,7 @@
   "description": "Generate PowerPoint presentations from a topic or brief, then export them as PPTX or PDF.",
   "author": {
     "name": "Otraasi Inc",
-    "email": "support@slideforge.io"
+    "email": "contact@slideforge.io"
   },
   "homepage": "https://www.slideforge.io/mcp",
   "repository": "https://github.com/otraasi/slideforge-cursor-plugin",
