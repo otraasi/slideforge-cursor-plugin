@@ -1,0 +1,32 @@
+{
+  "name": "slideforge",
+  "displayName": "SlideForge",
+  "version": "1.0.0",
+  "description": "Generate PowerPoint presentations from a topic or brief, then export them as PPTX or PDF.",
+  "author": {
+    "name": "Otraasi Inc",
+    "email": "support@slideforge.io"
+  },
+  "homepage": "https://www.slideforge.io/mcp",
+  "repository": "https://github.com/otraasi/slideforge-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "slideforge",
+    "presentations",
+    "slides",
+    "powerpoint",
+    "pptx",
+    "pdf",
+    "decks",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "presentations",
+    "productivity",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
